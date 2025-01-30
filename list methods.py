@@ -1,0 +1,10 @@
+list=[1,3,4]
+print(list)
+list.append(8)
+print(list)
+list.append(79998)
+print(list)
+print(type(list))
+student=["abhiji",3,"sbhud"]
+student.append(4)
+print(student)
